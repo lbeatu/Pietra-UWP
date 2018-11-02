@@ -7,8 +7,8 @@
     <ProjectGuid>{037B2748-BA20-4F2C-99D0-B2F5A751BF48}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>App6</RootNamespace>
-    <AssemblyName>App6</AssemblyName>
+    <RootNamespace>Pietra</RootNamespace>
+    <AssemblyName>Pietra</AssemblyName>
     <DefaultLanguage>tr-TR</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.17134.0</TargetPlatformVersion>
